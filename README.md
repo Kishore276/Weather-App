@@ -15,11 +15,6 @@ A simple and user-friendly weather forecast application built with HTML, CSS, an
 
 ---
 
-## 🖼️ Demo
-
-![Weather App Screenshot](screenshot.png) <!-- Add a screenshot image file to your project -->
-
----
 
 ## 🛠️ Technologies Used
 
